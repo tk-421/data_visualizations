@@ -1,0 +1,6 @@
+*.cfg
+*.json
+/bin
+/include
+/lib
+*.pyc
